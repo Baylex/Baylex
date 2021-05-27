@@ -4,20 +4,20 @@
 - 👀 I’m interested in studying educational data sets.
 - 🌱 I’m currently focusing on Tableau, Python programming, and embedding Excel into websites with javascript.
 - 💞️ I’m looking to collaborate on machine learning models centered on analzying educational data sets.
-- 📫 How to reach me: https://www.linkedin.com/in/julie-pyle-7177604b/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/julie-pyle-7177604b/)   
+- 
+# Portfolio - Work in Progress   
+[Portfolio](https://github.com/Baylex/Portfolio)  
 
-# Portfolio - Work in Progress
-https://github.com/Baylex/Portfolio 
-
-# Projects for Transformation Waco
-https://github.com/Baylex/TW_widget   
-https://github.com/Baylex/TW_Survey_NLP   
-https://github.com/Baylex/TW_Bernie_Sanders_Converting_Images   
+# Projects for Transformation Waco  
+[Two Embedded Estimators](https://github.com/Baylex/TW_Estimators)   
+[Sentiment Analysis NLP](https://github.com/Baylex/TW_Survey_NLP)   
+[Bernie Sanders Meme - Converting Images](https://github.com/Baylex/TW_Bernie_Sanders_Converting_Images)   
 
 # Repos from my UT McCombs Data Analytics Boot Camp  
 
 ## Final Project  
-https://github.com/Baylex/Video_Game_Sales  
+[Final Project](https://github.com/Baylex/Video_Game_Sales)   
 
 ## Modules  
 1. https://github.com/Baylex/Mapping_Earthquakes  
