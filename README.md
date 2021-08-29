@@ -20,28 +20,28 @@
 [Final Project](https://github.com/Baylex/Video_Game_Sales)   
 
 ## Modules  
-1. https://github.com/Baylex/Mapping_Earthquakes  
-2. https://github.com/Baylex/Mission-to-Mars  
-3. https://github.com/Baylex/School_District_Analysis_Challenge   
-4. https://github.com/Baylex/Election_Analysis_Challenge   
-5. https://github.com/Baylex/Kickstarter_Analysis_Challenge  
-6. https://github.com/Baylex/Stock_Analysis  
-7. https://github.com/Baylex/Neural_Network_Charity_Analysis   
-8. https://github.com/Baylex/Mapping_Earthquakes   
-9. https://github.com/Baylex/Cryptocurrencies   
-10. https://github.com/Baylex/Amazon_Vine_Analysis   
-11. https://github.com/Baylex/Credit_Risk_Analysis   
-12. https://github.com/Baylex/MechaCar_Statistical_Analysis  
-13. https://github.com/Baylex/Citibike   
-14. https://github.com/Baylex/Plotly_Biodiversity   
-15. https://github.com/Baylex/UFOs   
-16. https://github.com/Baylex/surfs_up  
-17. https://github.com/Baylex/Movies-ETL   
-18. https://github.com/Baylex/Pewlett_Hackard_Analysis  
-19. https://github.com/Baylex/PyBer_Analysis   
-20. https://github.com/Baylex/World_Weather_Analysis   
-21. https://github.com/Baylex/Election_Analysis  
-22. https://github.com/Baylex/Kickstarter_Analysis  
+1. [Mapping Earthquakes](https://github.com/Baylex/Mapping_Earthquakes)  
+2. [Mission to Mars](https://github.com/Baylex/Mission-to-Mars)    
+3. [School District Analysis](https://github.com/Baylex/School_District_Analysis_Challenge)   
+4. [Election Analysis](https://github.com/Baylex/Election_Analysis_Challenge)     
+5. [Kickstarter Analysis](https://github.com/Baylex/Kickstarter_Analysis_Challenge)    
+6. [Stock Analysis](https://github.com/Baylex/Stock_Analysis)  
+7. [Neural Network Charity Analysis](https://github.com/Baylex/Neural_Network_Charity_Analysis)   
+8. [Mapping Earthquakes](https://github.com/Baylex/Mapping_Earthquakes)   
+9. [Cryptocurrencies](https://github.com/Baylex/Cryptocurrencies)   
+10. [Amazon Vine Analysis](https://github.com/Baylex/Amazon_Vine_Analysis)   
+11. [Credit Risk Analysis](https://github.com/Baylex/Credit_Risk_Analysis)   
+12. [MechaCar Statistical Analysis](https://github.com/Baylex/MechaCar_Statistical_Analysis)  
+13. [Citibike](https://github.com/Baylex/Citibike)   
+14. [Plotly Biodiversity](https://github.com/Baylex/Plotly_Biodiversity)   
+15. [UFOs](https://github.com/Baylex/UFOs)   
+16. [Surf's Up](https://github.com/Baylex/surfs_up)  
+17. [Movies ETL Process](https://github.com/Baylex/Movies-ETL)   
+18. [Pewlett Packard Analysis](https://github.com/Baylex/Pewlett_Hackard_Analysis)    
+19. [PyBer Analysis](https://github.com/Baylex/PyBer_Analysis)   
+20. [World Weahter Analysis](https://github.com/Baylex/World_Weather_Analysis)   
+21. [Election Analysis](https://github.com/Baylex/Election_Analysis)   
+22. [Kickstarter Analysis](https://github.com/Baylex/Kickstarter_Analysis)  
 
 # Other  
 https://github.com/Baylex/Light_Density  
