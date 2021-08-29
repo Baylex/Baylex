@@ -5,6 +5,7 @@
 - 🌱 I’m currently focusing on Tableau, Python programming, and embedding Excel into websites with javascript.
 - 💞️ I’m looking to collaborate on machine learning models centered on analzying educational data sets.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/julie-pyle-7177604b/)   
+- 📫 Email: jp3158@gmail.com
  
 # Portfolio - Work in Progress   
 [Portfolio](https://github.com/Baylex/Portfolio)  
