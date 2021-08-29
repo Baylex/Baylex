@@ -44,8 +44,10 @@
 22. [Kickstarter Analysis](https://github.com/Baylex/Kickstarter_Analysis)  
 
 # Other  
-https://github.com/Baylex/Light_Density  
-https://github.com/Baylex/Pages_practice   
+[Light Density](https://github.com/Baylex/Light_Density)  
+[Practice](https://github.com/Baylex/Pages_practice)
+
+# Forked
 https://github.com/Baylex/Best-README-Template   
 https://github.com/Baylex/storytelling-with-data-ggplot   
 https://github.com/Baylex/storytelling-with-data-1   
