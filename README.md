@@ -11,7 +11,7 @@
 
 # Projects for Transformation Waco  
 [Two Embedded Estimators](https://github.com/Baylex/TW_Estimators)   
-[Sentiment Analysis NLP](https://github.com/Baylex/TW_Survey_NLP)  In Progress 
+[Sentiment Analysis NLP](https://github.com/Baylex/TW_Survey_NLP)  In Progress   
 [Bernie Sanders Meme - Converting Images](https://github.com/Baylex/TW_Bernie_Sanders_Converting_Images)   
 
 # Repos from my UT McCombs Data Analytics Boot Camp  
