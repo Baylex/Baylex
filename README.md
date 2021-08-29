@@ -4,7 +4,7 @@
 - 👀 I’m interested in studying state accountability and creating tools for educators.
 - 🌱 I’m currently focusing on Tableau, Python programming, and embedding Excel into websites with javascript.
 - 💞️ I’m looking to collaborate on machine learning models centered on analzying educational data sets.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/julie-pyle-7177604b/)   
+- 📫 How to reach me: [LinkedIn](hwww.linkedin.com/in/juliempyle)   
 - 📫 Email: jp3158@gmail.com
  
 # Portfolio - Work in Progress   
