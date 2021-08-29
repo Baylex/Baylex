@@ -1,17 +1,17 @@
-# This is a work in progress.  I am exploring a new feature in GitHub.
+# Julie Pyle | Data Analyst | Education Expert | Tool Creator
 
 - 👋 Hi, I’m @Baylex
-- 👀 I’m interested in studying educational data sets.
+- 👀 I’m interested in studying state accountability and creating tools for educators.
 - 🌱 I’m currently focusing on Tableau, Python programming, and embedding Excel into websites with javascript.
 - 💞️ I’m looking to collaborate on machine learning models centered on analzying educational data sets.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/julie-pyle-7177604b/)   
-- 
+ 
 # Portfolio - Work in Progress   
 [Portfolio](https://github.com/Baylex/Portfolio)  
 
 # Projects for Transformation Waco  
 [Two Embedded Estimators](https://github.com/Baylex/TW_Estimators)   
-[Sentiment Analysis NLP](https://github.com/Baylex/TW_Survey_NLP)   
+[Sentiment Analysis NLP](https://github.com/Baylex/TW_Survey_NLP)  In Progress 
 [Bernie Sanders Meme - Converting Images](https://github.com/Baylex/TW_Bernie_Sanders_Converting_Images)   
 
 # Repos from my UT McCombs Data Analytics Boot Camp  
