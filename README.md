@@ -28,7 +28,7 @@
 5. [Kickstarter Analysis](https://github.com/Baylex/Kickstarter_Analysis_Challenge)    
 6. [Stock Analysis](https://github.com/Baylex/Stock_Analysis)  
 7. [Neural Network Charity Analysis](https://github.com/Baylex/Neural_Network_Charity_Analysis)   
-8. [Mapping Earthquakes](https://github.com/Baylex/Mapping_Earthquakes)   
+8. [World Weahter Analysis](https://github.com/Baylex/World_Weather_Analysis)   
 9. [Cryptocurrencies](https://github.com/Baylex/Cryptocurrencies)   
 10. [Amazon Vine Analysis](https://github.com/Baylex/Amazon_Vine_Analysis)   
 11. [Credit Risk Analysis](https://github.com/Baylex/Credit_Risk_Analysis)   
@@ -40,9 +40,6 @@
 17. [Movies ETL Process](https://github.com/Baylex/Movies-ETL)   
 18. [Pewlett Packard Analysis](https://github.com/Baylex/Pewlett_Hackard_Analysis)    
 19. [PyBer Analysis](https://github.com/Baylex/PyBer_Analysis)   
-20. [World Weahter Analysis](https://github.com/Baylex/World_Weather_Analysis)   
-21. [Election Analysis](https://github.com/Baylex/Election_Analysis)   
-22. [Kickstarter Analysis](https://github.com/Baylex/Kickstarter_Analysis)  
 
 # Other  
 [Light Density](https://github.com/Baylex/Light_Density)  
