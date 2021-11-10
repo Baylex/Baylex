@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @Baylex
 - 👀 I’m interested in studying state accountability and creating tools for educators.
-- 🌱 I’m currently focusing on Tableau, Python programming, and embedding Excel into websites with javascript.
+- 🌱 I’m currently focusing on Tableau, Python programming, and embedding Excel into websites with JavaScript.
 - 💞️ I’m looking to collaborate on machine learning models centered on analyzing educational data sets.
-- 📫 Hire me!  I would be great fit for a data analyst job that focuses on Tableau. I prefer Remote only and open to a new idustry outside of education: [LinkedIn](hwww.linkedin.com/in/juliempyle)   
+- 📫 Hire me!  I would be great fit for a data analyst job that focuses on Tableau. I prefer Remote only and open to a new industry outside of education: [LinkedIn](hwww.linkedin.com/in/juliempyle)   
 - 📫 Email: jp3158@gmail.com
  
 ## I solve Real World problems!  
@@ -23,7 +23,7 @@ I used Python to convert several logo images for a communication flyer.  The com
 ### Projects for Educational Service Center Region 13, Austin, TX
 
 #### [Data Dig Protocol](https://store.esc13.net/collections/frontpage/products/data-dig-protocol-tool?variant=39316497727561)
-I was contracted to bring the Data Dig Protocol to life, which retails for $1200.  From my years of leading data PLCs, I have learned the best, most efficient way for teachers to analyze their data in a meaningful way that improves student performance.  I used Google Sheets to create a collaborative document that takes in data from 2 different student information systems, Eduphoria! and DMAC, which are the  2 most common SIS in Texas.  Once the data is in place, I wrote all of the code and formulas to automatically calculate and present everything the way a teacher needs to process the information.
+I was contracted to bring the Data Dig Protocol to life, which retails for $1200.  From my years of leading data PLCs, I have learned the best, most efficient way for teachers to analyze their data in a meaningful way that improves student performance.  I used Google Sheets to create a collaborative document that takes in data from 2 different student information systems, Eduphoria! and DMAC, which are the  2 most common SIS in Texas.  Once the data is in place, I wrote all of the code and formulas to automatically calculate and present everything the way a teacher needs to process the information, which saves the teachers countless hours of manual data entry and gets them straight into analysis and discussing actional steps.
 [![Data Dig Protocol](https://github.com/Baylex/Excel_Formulas/blob/main/Data_Dig_protocol.PNG)](https://store.esc13.net/collections/frontpage/products/data-dig-protocol-tool?variant=39316497727561)
 
 #### [STAAR Growth Prediction Tool](https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13)
@@ -51,7 +51,7 @@ Want more proof???  See several more schools that my tools have impacted!
 5. [Kickstarter Analysis](https://github.com/Baylex/Kickstarter_Analysis_Challenge)    
 6. [Stock Analysis](https://github.com/Baylex/Stock_Analysis)  
 7. [Neural Network Charity Analysis](https://github.com/Baylex/Neural_Network_Charity_Analysis)   
-8. [World Weahter Analysis](https://github.com/Baylex/World_Weather_Analysis)   
+8. [World Weather Analysis](https://github.com/Baylex/World_Weather_Analysis)   
 9. [Cryptocurrencies](https://github.com/Baylex/Cryptocurrencies)   
 10. [Amazon Vine Analysis](https://github.com/Baylex/Amazon_Vine_Analysis)   
 11. [Credit Risk Analysis](https://github.com/Baylex/Credit_Risk_Analysis)   
@@ -75,4 +75,4 @@ https://github.com/Baylex/storytelling-with-data-1
 https://github.com/Baylex/storytelling-with-data   
 
 # Portfolio - Work in Progress   
-[Portfolio](https://github.com/Baylex/Portfolio) 
+[Portfolio](https://github.com/Baylex/Portfolio)
