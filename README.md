@@ -26,7 +26,7 @@ I used Python to convert several logo images for a communication flyer.  The com
 I was contracted to bring the Data Dig Protocol to life, which retails for $1200.  From my years of leading data PLCs, I have learned the best, most efficient way for teachers to analyze their data in a meaningful way that improves student performance.  I used Google Sheets to create a collaborative document that takes in data from 2 different student information systems, Eduphoria! and DMAC, which are the  2 most common SIS systems in Texas.  Once the data is in place, I wrote all the code and formulas to automatically calculate and present everything the way a teacher needs to process the information.
 
 
-#### [![STAAR Growth Prediction Tool](http://img.youtube.com/vi/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13/0.jpg)](https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13)
+#### [![STAAR Growth Prediction Tool](https://github.com/Baylex/Excel_Formulas/blob/main/GPT_image.PNG)](https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13)
 
 # Repos from my UT McCombs Data Analytics Boot Camp  
 
