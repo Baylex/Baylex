@@ -4,7 +4,7 @@
 - 👀 I’m interested in studying state accountability and creating tools for educators.
 - 🌱 I’m currently focusing on Tableau, Python programming, and embedding Excel into websites with javascript.
 - 💞️ I’m looking to collaborate on machine learning models centered on analzying educational data sets.
-- 📫 How to reach me: [LinkedIn](hwww.linkedin.com/in/juliempyle)   
+- 📫 I'm currently looking for a data analyst job that focuses on Tableau! Remote only, open to a new idustry other than education: [LinkedIn](hwww.linkedin.com/in/juliempyle)   
 - 📫 Email: jp3158@gmail.com
  
 ## I solve Real World problems!  
@@ -34,7 +34,7 @@ I saw a knowledge gap where teachers had too much difficulty learning the new gr
 In this clip, you can see Elgin ISD using my tools to improve student performance! 
 [![STAAR Growth Prediction Tool in Action](https://github.com/Baylex/Excel_Formulas/blob/main/GPT_in_Action.PNG)](https://www.youtube.com/watch?v=dzeFN13yCqA&list=PLJIQbYYe5Zs0CgTsCsSaJYziP6GeU7zgM&index=8&t=1s&ab_channel=ESCRegion13)
 
-See several more schools that my tools have impacted! 
+Want more proof???  See several more schools that my tools have impacted! 
 [![STAAR Growth Prediction Tool in Action](https://github.com/Baylex/Excel_Formulas/blob/main/Other_ISDs.PNG)](https://www.youtube.com/playlist?list=PLJIQbYYe5Zs0CgTsCsSaJYziP6GeU7zgM)
 
 
