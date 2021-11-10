@@ -10,10 +10,10 @@
 ## I solve Real World problems!  
 ### Projects for Transformation Waco  
 
-#### [Two Embedded Estimators](https://github.com/Baylex/TW_Estimators)  
+#### [Two Embedded Estimators](https://github.com/Baylex/TW_Estimators)  <-- Want to know how I think analytically to solve problems? 
 I designed two qualification calculators to help teachers understand their eligibility for the Teacher Incentive Allotment, a potential $65,000 pay increase!    
 
-#### [Sentiment Analysis NLP](https://github.com/Baylex/TW_Survey_NLP)  Code coming soon!    
+#### [Sentiment Analysis NLP](https://github.com/Baylex/TW_Survey_NLP)  Code coming soon!  <-- What tools do I use and how do I masterfully pull them together for a long project? 
 I have streamlined our data collection process and have recovered 1000 work hours or roughly $45,000 in salaries plus created actionable data from previously ignored data attributes.  
 
 #### [Bernie Sanders Meme - Converting Images](https://github.com/Baylex/TW_Bernie_Sanders_Converting_Images)   
