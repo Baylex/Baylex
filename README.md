@@ -27,7 +27,7 @@ I was contracted to bring the Data Dig Protocol to life, which retails for $1200
 [![Data Dig Protocol](https://github.com/Baylex/Excel_Formulas/blob/main/Data_Dig_protocol.PNG)](https://store.esc13.net/collections/frontpage/products/data-dig-protocol-tool?variant=39316497727561)
 
 #### [STAAR Growth Prediction Tool](https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13)
-I saw a knowledge gap where teachers had too much difficulty learning the new growth model when TEA shifted to the A-F Accountability model.  I created a several data tables and excel files that make setting growth goals easy!  
+I saw a knowledge gap where teachers had too much difficulty learning the new growth model when TEA shifted to the A-F Accountability system.  I created over 30 data tables and 6 separate excel files that make setting growth goals easy!  
 [![STAAR Growth Prediction Tool](https://github.com/Baylex/Excel_Formulas/blob/main/GPT_image.PNG)](https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13)
 
 ## Real Results! 
