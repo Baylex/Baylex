@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Baylex
 - 👀 I’m interested in studying state accountability and creating tools for educators.
 - 🌱 I’m currently focusing on Tableau, Python programming, and embedding Excel into websites with javascript.
-- 💞️ I’m looking to collaborate on machine learning models centered on analzying educational data sets.
+- 💞️ I’m looking to collaborate on machine learning models centered on analyzing educational data sets.
 - 📫 I'm currently looking for a data analyst job that focuses on Tableau! Remote only, open to a new idustry other than education: [LinkedIn](hwww.linkedin.com/in/juliempyle)   
 - 📫 Email: jp3158@gmail.com
  
@@ -27,7 +27,7 @@ I was contracted to bring the Data Dig Protocol to life, which retails for $1200
 [![Data Dig Protocol](https://github.com/Baylex/Excel_Formulas/blob/main/Data_Dig_protocol.PNG)](https://store.esc13.net/collections/frontpage/products/data-dig-protocol-tool?variant=39316497727561)
 
 #### [STAAR Growth Prediction Tool](https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13)
-I saw a knowledge gap where teachers had too much difficulty learning the new growth model when TEA shifted to the A-F Accountability system.  I created over 30 data tables and 6 separate excel files that make setting growth goals easy!  
+I saw a knowledge gap where teachers had too much difficulty learning the new growth model when TEA shifted to the A-F Accountability system.  I created data tables and excel files that make setting growth goals easy!  
 [![STAAR Growth Prediction Tool](https://github.com/Baylex/Excel_Formulas/blob/main/GPT_image.PNG)](https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13)
 
 ## Real Results! 
