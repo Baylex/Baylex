@@ -4,7 +4,7 @@
 - 👀 I’m interested in studying state accountability and creating tools for educators.
 - 🌱 I’m currently focusing on Tableau, Python programming, and embedding Excel into websites with javascript.
 - 💞️ I’m looking to collaborate on machine learning models centered on analyzing educational data sets.
-- 📫 I'm currently looking for a data analyst job that focuses on Tableau! Remote only, open to a new idustry other than education: [LinkedIn](hwww.linkedin.com/in/juliempyle)   
+- 📫 Hire me!  I would be great fit for a data analyst job that focuses on Tableau. I prefer Remote only and open to a new idustry outside of education: [LinkedIn](hwww.linkedin.com/in/juliempyle)   
 - 📫 Email: jp3158@gmail.com
  
 ## I solve Real World problems!  
