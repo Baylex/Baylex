@@ -7,26 +7,26 @@
 - 📫 How to reach me: [LinkedIn](hwww.linkedin.com/in/juliempyle)   
 - 📫 Email: jp3158@gmail.com
  
-# I solve Real World problems!  
-## Projects for Transformation Waco  
+## I solve Real World problems!  
+### Projects for Transformation Waco  
 
-### [Two Embedded Estimators](https://github.com/Baylex/TW_Estimators)  
+#### [Two Embedded Estimators](https://github.com/Baylex/TW_Estimators)  
 I designed two qualification calculators to help teachers understand their eligibility for the Teacher Incentive Allotment, a potential $65,000 pay increase!    
 
-### [Sentiment Analysis NLP](https://github.com/Baylex/TW_Survey_NLP)  Code coming soon!    
+#### [Sentiment Analysis NLP](https://github.com/Baylex/TW_Survey_NLP)  Code coming soon!    
 I have streamlined our data collection process and have recovered 1000 work hours or roughly $45,000 in salaries plus created actionable data from previously ignored data attributes.  
 
-### [Bernie Sanders Meme - Converting Images](https://github.com/Baylex/TW_Bernie_Sanders_Converting_Images)   
+#### [Bernie Sanders Meme - Converting Images](https://github.com/Baylex/TW_Bernie_Sanders_Converting_Images)   
 I used Python to convert several logo images for a communication flyer.  The communication team wanted the logos to match with the same black and white color scheme.   
 
-# My work has Impact and Reach! 
-## Projects for Educational Service Center Region 13, Austin, TX
+## My work has Impact and Reach! 
+### Projects for Educational Service Center Region 13, Austin, TX
 
-### [Data Dig Protocol](https://store.esc13.net/collections/frontpage/products/data-dig-protocol-tool?variant=39316497727561)
+#### [Data Dig Protocol](https://store.esc13.net/collections/frontpage/products/data-dig-protocol-tool?variant=39316497727561)
 I was contracted to bring the Data Dig Protocol to life, which retails for $1200.  From my years of leading data PLCs, I have learned the best, most efficient way for teachers to analyze their data in a meaningful way that improves student performance.  I used Google Sheets to create a collaborative document that takes in data from 2 different student information systems, Eduphoria! and DMAC, which are the  2 most common SIS systems in Texas.  Once the data is in place, I wrote all the code and formulas to automatically calculate and present everything the way a teacher needs to process the information.
 
 
-[![STAAR Growth Prediction Tool](http://img.youtube.com/vi/https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13/0.jpg)](https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13)
+#### [![STAAR Growth Prediction Tool](http://img.youtube.com/vi/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13/0.jpg)](https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13)
 
 # Repos from my UT McCombs Data Analytics Boot Camp  
 
