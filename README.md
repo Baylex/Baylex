@@ -23,7 +23,7 @@ I used Python to convert several logo images for a communication flyer.  The com
 ### Projects for Educational Service Center Region 13, Austin, TX
 
 #### [Data Dig Protocol](https://store.esc13.net/collections/frontpage/products/data-dig-protocol-tool?variant=39316497727561)
-I was contracted to bring the Data Dig Protocol to life, which retails for $1200.  I used Google Sheets to create a collaborative document that takes in data from 2 different student information systems, Eduphoria! and DMAC, which are the  2 most common SIS in Texas.  Once the data is in place, I wrote the necessary code and formulas to automatically calculate and present everything the way a teacher needs to process the information.  The result being that teachers save countless hours of manual data entry, and the tool gets them straight into the analysis and discussion of actional steps to improve instructional practices to benefit student performance.
+I was contracted to bring the Data Dig Protocol to life, which retails for $1200.  I used Google Sheets to create a collaborative document that takes in data from 2 different student information systems, Eduphoria! and DMAC, which are the  2 most common SIS in Texas.  Once the data is in place, I wrote the necessary code and formulas to automatically calculate and present everything the way a teacher needs to process the information.  The result being that teachers save countless hours of manual data entry, and the tool gets them straight into the analysis and discussion of actionable steps to improve instructional practices to benefit student performance.
 [![Data Dig Protocol](https://github.com/Baylex/Excel_Formulas/blob/main/Data_Dig_protocol.PNG)](https://store.esc13.net/collections/frontpage/products/data-dig-protocol-tool?variant=39316497727561)
 
 #### [STAAR Growth Prediction Tool](https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13)
@@ -34,7 +34,7 @@ I saw a knowledge gap where teachers had too much difficulty learning the new gr
 In this clip, you can see Elgin ISD using my tools to improve student performance! 
 [![STAAR Growth Prediction Tool in Action](https://github.com/Baylex/Excel_Formulas/blob/main/GPT_in_Action.PNG)](https://www.youtube.com/watch?v=dzeFN13yCqA&list=PLJIQbYYe5Zs0CgTsCsSaJYziP6GeU7zgM&index=8&t=1s&ab_channel=ESCRegion13)
 
-Want more proof???  See several more schools that my tools have impacted! 
+More evidience: See several more schools that my tools have impacted! 
 [![STAAR Growth Prediction Tool in Action](https://github.com/Baylex/Excel_Formulas/blob/main/Other_ISDs.PNG)](https://www.youtube.com/playlist?list=PLJIQbYYe5Zs0CgTsCsSaJYziP6GeU7zgM)
 
 
