@@ -66,7 +66,7 @@ More evidience: See several more schools that my tools have impacted!
 
 ```mermaid
   graph TD;
-      A-->B;
+      [Mapping Earthquakes](https://github.com/Baylex/Mapping_Earthquakes)  -->B;
       A-->C;
       B-->D;
       C-->D;
