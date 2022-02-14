@@ -64,12 +64,14 @@ More evidience: See several more schools that my tools have impacted!
 18. [Pewlett Packard Analysis](https://github.com/Baylex/Pewlett_Hackard_Analysis)    
 19. [PyBer Analysis](https://github.com/Baylex/PyBer_Analysis)   
 
+
+Saw a new markdown feature and tried it out: [Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 ```mermaid
-  graph TD;
-      [Mapping Earthquakes](https://github.com/Baylex/Mapping_Earthquakes)-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+graph TD;
+    Data_Analyst-->SQL;
+    Data_Analyst-->Python;
+    Data_Analyst-->Tableau;
+    Data_Analyst-->JavaScript;
 ```
 
 
