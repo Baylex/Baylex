@@ -74,6 +74,16 @@ graph TD;
     Data_Analyst-->JavaScript;
 ```
 
+Failed attempt at hyperlinks with mermaid
+```mermaid
+flowchart LR;
+    A-->B;
+    B-->C;
+    C-->D;
+    links A: {"Dashboard": "https://dashboard.contoso.com/a", "Wiki": "https://wiki.contoso.com/a"}
+    links B: {"Dashboard": "https://dashboard.contoso.com/b", "Wiki": "https://wiki.contoso.com/b"}
+ ```
+
 
 # Other  
 [Light Density](https://github.com/Baylex/Light_Density)  
