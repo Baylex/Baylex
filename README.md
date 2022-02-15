@@ -74,15 +74,17 @@ graph TD;
     Data_Analyst-->JavaScript;
 ```
 
-Failed attempt at hyperlinks with mermaid
+Practice embedding hyperlinks
 ```mermaid
-flowchart LR;
-    A-->B;
-    B-->C;
-    C-->D;
-    links A: {"Dashboard": "https://dashboard.contoso.com/a", "Wiki": "https://wiki.contoso.com/a"}
-    links B: {"Dashboard": "https://dashboard.contoso.com/b", "Wiki": "https://wiki.contoso.com/b"}
- ```
+sequenceDiagram
+    participant Alice
+    participant John
+    links Alice: {"Dashboard": "https://dashboard.contoso.com/alice", "Wiki": "https://wiki.contoso.com/alice"}
+    links John: {"Dashboard": "https://dashboard.contoso.com/john", "Wiki": "https://wiki.contoso.com/john"}
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
+```
 
 
 # Other  
