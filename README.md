@@ -10,7 +10,7 @@
 ## I solve Real World problems!  
 ### Projects for Transformation Waco  
 
-#### [Two Embedded Estimators](https://github.com/Baylex/TW_Estimators)  <-- Want to know how I think analytically to solve problems? 
+#### [Two Embedded TIA Estimators](https://github.com/Baylex/TW_Estimators)  <-- Want to know how I think analytically to solve problems? 
 I designed two qualification calculators to help teachers understand their eligibility for the Teacher Incentive Allotment, a potential $65,000 pay increase!    
 
 #### [Sentiment Analysis NLP](https://github.com/Baylex/TW_Survey_NLP)  Code coming soon!  <-- What tools do I use and how do I masterfully pull them together for a long project? 
