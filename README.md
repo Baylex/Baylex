@@ -19,6 +19,12 @@ I have streamlined our data collection process and have recovered 1000 work hour
 #### [Bernie Sanders Meme - Converting Images](https://github.com/Baylex/TW_Bernie_Sanders_Converting_Images)   
 I used Python to convert several logo images for a communication flyer.  The communication team wanted the logos to match with the same black and white color scheme.   
 
+### Volunteer Projects for my Community
+How I overcame the challenges of finding Child Care - in the works with collaborating with United Way and HOT Workforce Solutions.
+[Texas Child Care Facilities Tableau](https://public.tableau.com/app/profile/julie.pyle2236/viz/TexasChildCareFacilities/Story1)
+[Texas Child Care Facilities Python](https://github.com/Baylex/child_care)
+
+
 ## My work has Impact and Reach! 
 ### Projects for Educational Service Center Region 13, Austin, TX
 
