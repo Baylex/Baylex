@@ -34,7 +34,10 @@ I was contracted to bring the Data Dig Protocol to life, which retails for $1200
 
 #### [STAAR Growth Prediction Tool](https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13)
 I saw a knowledge gap where teachers had too much difficulty learning the new growth model when TEA shifted to the A-F Accountability system.  I created data tables and excel files that make setting growth goals easy!  
-[![STAAR Growth Prediction Tool](https://github.com/Baylex/Excel_Formulas/blob/main/GPT_image.PNG)](https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13)
+
+[STAAR Growth Prediciton Tool eStore $50 - $130/download](https://store.esc13.net/products/staar-growth-predicition-tool-middle-school-bundle-downloadable-pdf?_pos=4&_sid=e7fd7d504&_ss=r&variant=15824492003401)
+
+[![STAAR Growth Prediction Tool First laucnh video](https://github.com/Baylex/Excel_Formulas/blob/main/GPT_image.PNG)](https://www.youtube.com/watch?v=ofBWVEwAAjI&ab_channel=ESCRegion13)
 
 ## Real Results! 
 In this clip, you can see Elgin ISD using my tools to improve student performance! 
