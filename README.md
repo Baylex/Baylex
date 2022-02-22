@@ -28,7 +28,7 @@ How I overcame the challenges of finding Child Care - in the works with collabor
 ## My work has Impact and Reach! 
 ### Projects for Educational Service Center Region 13, Austin, TX
 
-#### [Data Dig Protocol](https://store.esc13.net/collections/frontpage/products/data-dig-protocol-tool?variant=39316497727561)
+#### [Data Dig Protocol eStore $1200/download](https://store.esc13.net/collections/frontpage/products/data-dig-protocol-tool?variant=39316497727561)
 I was contracted to bring the Data Dig Protocol to life, which retails for $1200.  I used Google Sheets to create a collaborative document that takes in data from 2 different student information systems, Eduphoria! and DMAC, which are the  2 most common SIS in Texas.  Once the data is in place, I wrote the necessary code and formulas to automatically calculate and present everything the way a teacher needs to process the information.  The result being that teachers save countless hours of manual data entry, and the tool gets them straight into the analysis and discussion of actionable steps to improve instructional practices to benefit student performance.
 [![Data Dig Protocol](https://github.com/Baylex/Excel_Formulas/blob/main/Data_Dig_protocol.PNG)](https://store.esc13.net/collections/frontpage/products/data-dig-protocol-tool?variant=39316497727561)
 
