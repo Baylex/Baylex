@@ -1,6 +1,4 @@
-# Julie Pyle | Data Analyst | Education Expert | Tool Creator
-
-![Pic](https://github.com/Baylex/Excel_Formulas/blob/main/Weighted_Averages.png) 
+# Julie Pyle | Data Analyst | Education Expert | Tool Creator ![Pic](https://github.com/Baylex/Excel_Formulas/blob/main/Weighted_Averages.png) 
 
 - 👋 Hi, I’m @Baylex and I own Weighted Averages, LLC.  
 - 👀 I’m interested in studying state accountability and creating tools for educators.
