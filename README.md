@@ -75,7 +75,7 @@ More evidience: See several more schools that my tools have impacted!
 19. [PyBer Analysis - Matplotlib, charts, Numpy, Pandas, SciPy, Python](https://github.com/Baylex/PyBer_Analysis)   
 
 
-Saw a new markdown feature and tried it out: [Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+Saw a new markdown feature and tried it out: [Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)  [Practice](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNqVkTFPwzAQhf-KuQ0pJXuGIqQiKtYOLF4O-yCmji84Z1VVlP-OE6dSEQzgxfLT9-492yMYtgQNDPSZKBjaOXyP2Omg8uoxijOuxyDqwTtDP-VnbkNRvQvHoWCNGjXscGhfGaPV0CgNrUg_NHVtL_Kd4SA8cN67GpfpUGXwxR3dd8spK7_R03XwXOT_uR9z_b_GFnhNXS662W5L7p6856VDpVo-KYykzpzuCzvrm8yuj_MUCeXmesxtmXKgxaU8CsUMQAUdxQ6dzT80zgYN0lJHpailN0xeNOgwZTT1NvserROO0EhMVAEm4cM5mMu5MOsnF3H6AsGvrl8)
 ```mermaid
 graph TD;
     Data_Analyst-->SQL;
@@ -83,20 +83,6 @@ graph TD;
     Data_Analyst-->Tableau;
     Data_Analyst-->JavaScript;
 ```
-
-Practice embedding hyperlinks
-```mermaid
-sequenceDiagram
-    participant Alice
-    participant John
-    links Alice: {"Dashboard": "https://dashboard.contoso.com/alice", "Wiki": "https://wiki.contoso.com/alice"}
-    links John: {"Dashboard": "https://dashboard.contoso.com/john", "Wiki": "https://wiki.contoso.com/john"}
-    Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
-    Alice-)John: See you later!
-```
-[![](https://mermaid.ink/img/pako:eNqVkTFPwzAQhf-KuQ0pJbuHIqQiEGsHFi-HfSWmjh3ss6oqyn_HiVOpCAbwYunpe_eefSPoYAgkJPrM5DXtLL5H7JUX5QwY2Wo7oGfx4Kymn_JL6HxVnfXHVDEpRgU7TN1bwGgUSKGgYx6SbFtzke908BxSKHff4jIdmgK-2qP9bjkV5Td6ug6ei_w_92Ou_9fYCq-py0M3223NfSbnwtKhEV04CYwkziHfV3bWN4VdP-cpEvLN9ZjbOmVPi0s4ZIoFgAZ6ij1aUzY0zgYF3FFPtaihA2bHCpSfCpoHU3yPxnKIIA_oEjWAmcP-7DVIjpku0LrllZq-ABufrvU)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNqVkTFPwzAQhf-KuQ0pJbuHIqQiEGsHFi-HfSWmjh3ss6oqyn_HiVOpCAbwYunpe_eefSPoYAgkJPrM5DXtLL5H7JUX5QwY2Wo7oGfx4Kymn_JL6HxVnfXHVDEpRgU7TN1bwGgUSKGgYx6SbFtzke908BxSKHff4jIdmgK-2qP9bjkV5Td6ug6ei_w_92Ou_9fYCq-py0M3223NfSbnwtKhEV04CYwkziHfV3bWN4VdP-cpEvLN9ZjbOmVPi0s4ZIoFgAZ6ij1aUzY0zgYF3FFPtaihA2bHCpSfCpoHU3yPxnKIIA_oEjWAmcP-7DVIjpku0LrllZq-ABufrvU)
-
 # Other  
 [Light Density](https://github.com/Baylex/Light_Density)  
 [Practice](https://github.com/Baylex/Pages_practice)
