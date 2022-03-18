@@ -78,11 +78,27 @@ More evidience: See several more schools that my tools have impacted!
 Saw a new markdown feature and tried it out: [Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)  [Practice](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNqVkTFPwzAQhf-KuQ0pJXuGIqQiKtYOLF4O-yCmji84Z1VVlP-OE6dSEQzgxfLT9-492yMYtgQNDPSZKBjaOXyP2Omg8uoxijOuxyDqwTtDP-VnbkNRvQvHoWCNGjXscGhfGaPV0CgNrUg_NHVtL_Kd4SA8cN67GpfpUGXwxR3dd8spK7_R03XwXOT_uR9z_b_GFnhNXS662W5L7p6856VDpVo-KYykzpzuCzvrm8yuj_MUCeXmesxtmXKgxaU8CsUMQAUdxQ6dzT80zgYN0lJHpailN0xeNOgwZTT1NvserROO0EhMVAEm4cM5mMu5MOsnF3H6AsGvrl8)
 ```mermaid
 graph TD;
+    Data_Analyst-->Excel;    
     Data_Analyst-->SQL;
     Data_Analyst-->Python;
     Data_Analyst-->Tableau;
     Data_Analyst-->JavaScript;
+    JavaScript-->1._Mapping_Earthquakes;
+    JavaScript-->2._Mission_to_Mars
+    Python-->3._School_District_Analysis;
+    Python-->4._Election_Analysis;
+    Excel-->5._Kickstarter_Analysis;
+    Excel-->6._Stock_Analysis;
+    Python-->8._World_Weather_Analysis;
 ```
+
+```mermaid
+graph TD;
+    Data_Scientist-->Machine_Learning;
+    Data_Scientist-->Big_Data;
+    Machine_Learning-->7._Neural_Network_Charity_Analysis;
+```
+
 # Other  
 [Light Density](https://github.com/Baylex/Light_Density)  
 [Practice](https://github.com/Baylex/Pages_practice)
