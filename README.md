@@ -112,5 +112,5 @@ https://github.com/Baylex/storytelling-with-data
 # Portfolio - Work in Progress   
 [Portfolio](https://github.com/Baylex/Portfolio)
 
-#Future project 
+# Future project     
 Make a state park list for my hiking group.
