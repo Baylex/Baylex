@@ -4,8 +4,8 @@
 - 👀 I’m interested in studying state accountability and creating tools for educators.
 - 🌱 I’m currently focusing on Tableau, Python programming, and embedding Excel into websites with JavaScript.
 - 💞️ I’m looking to collaborate on machine learning models centered on analyzing educational data sets.
-- 📫 Hire me! [Julie Pyle, M. Ed.](www.linkedin.com/in/juliempyle)   
-- 📫 Open to contracted work: [Weighted Averages, LLC](www.linkedin.com/company/weighted-averages-llc) 
+- 📫 Hire me! [Julie Pyle, M. Ed.](https://www.linkedin.com/in/juliempyle)   
+- 📫 Open to contracted work: [Weighted Averages, LLC](https://www.linkedin.com/company/weighted-averages-llc/) 
 - 📫 Check out my results and let's chat about how I can solve problems for your team! Email: jp3158@gmail.com
  
 ## I solve Real World problems!  
