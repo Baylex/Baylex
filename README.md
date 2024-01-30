@@ -114,4 +114,3 @@ https://github.com/Baylex/storytelling-with-data
 
 # Future project     
 Make a state park list for my hiking group.
-google-site-verification: google4f79abb0b9451a16.html
